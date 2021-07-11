@@ -7,7 +7,7 @@
 5.实现异步日志系统，记录服务器运行状态。
 
 
-// 修改为root文件夹所在路径
+#修改为root文件夹所在路径
 const char* doc_root="/home/c/WebServer/root";
 
 #编译方式
